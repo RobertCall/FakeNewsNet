@@ -1,0 +1,2 @@
+# FakeNewsNet
+Putin canceled China
